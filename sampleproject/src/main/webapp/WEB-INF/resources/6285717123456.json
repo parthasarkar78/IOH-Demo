@@ -1,0 +1,71 @@
+{
+    "msisdn":"6285717123456" ,
+    "fname":"Chinmaye" ,
+    "lname":"U" ,
+    "refNo":"MTX77612345" ,
+    "segment":"Postpaid",
+    "serviceClass":"SC 237 IM3 SP 0 Cashback 90d" ,
+    "idtype":"Passport" ,
+    "idRef":"34458719" ,
+    "idExp":"2029-06-03" ,
+    "address":"DA 12/C Sector IV , Saltlake , Kolkata",
+    "city":"Jakarta",
+    "cluster": "Low Value",
+    "indi":"Risk" ,
+    "clusterColor" : "yellow",
+    "puk1":"95453759" ,
+    "puk2":"347687876" ,
+    "iccid":"895645342787977" ,
+    "imei":"861536030196001" ,
+    "poc":"ABCD" ,
+    "firstActive":"2022-05-30",
+    "bal":"5674521" ,
+    "activationDate":"2022-05-31" ,
+    "grace":"30",
+    "accnState":"Active",
+
+    "activePacks":[{
+    "pid":"ULNEW200KFS" ,
+    "name":"Fredom Internet 150GB,200rb" ,
+    "start":"2022-04-30" ,
+    "end":"2022-06-30" 
+    }],
+
+    "packageHist":[{
+    "pid":"ULNEW200KFS" ,
+    "name":"Fredom Internet 150GB,200rb" ,
+    "start":"2022-04-30" ,
+    "end":"2022-06-30"
+    }],
+
+    "activities":[{
+    "no": "1-2IVJLP",
+    "title":"",
+    "type":"Inbound Call",
+    "intType":"SR" ,
+    "reason":"SIM Card",
+    "status":"Completed" 
+    }] ,
+    "orders":[{
+    "orderno": "1-U25W22U",
+    "ordertype":"Change Card",
+    "orderStatus":"Submitted",
+    "orderDate":"2022-06-01" ,
+    "orderRemark":"Damage card"
+    },
+    {
+    "orderno": "1-U26NH5G",
+    "ordertype":"New Registration",
+    "orderStatus":"Completed",
+    "orderDate":"2020-01-30" ,
+    "orderRemark":""
+    }] ,
+
+    "camData":"1 GB",
+    "camSMS": "250",
+    "camVoice":"Unlimited",
+    "camMix":"" ,
+    "rbtTitle":"NA",
+    "rbtStatus":"Inactive",
+    "subDate":"" 
+ }
